@@ -94,12 +94,13 @@ Users can register, log in, take randomized quizzes, and submit their scores —
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
-Add screenshots to `frontend/src/assets/` and reference them like:
-
+Home Page 
 ![Home Page](frontend/src/assets/home.png)  
+Quiz Interface 
 ![Quiz Interface](frontend/src/assets/quiz.png)
+Leaderboard Page
 ![Leaderboard](frontend/src/assets/leaderboard.png)
 
 ---
